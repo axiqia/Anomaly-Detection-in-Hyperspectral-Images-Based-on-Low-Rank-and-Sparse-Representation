@@ -9,7 +9,7 @@ LHData dataset：
 - AUC（RX） =  0.9910；
 
 
-LDData dataset：
+SDData dataset：
 
 ![avatar](SDData.jpg)
 - AUC（LRR）=  0.9443；
